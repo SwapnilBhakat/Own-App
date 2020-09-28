@@ -1,0 +1,338 @@
+            .header {
+                display: flex;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                align-items: center;
+                font-size:30px;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                color:#214758;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .description {
+                display: flex;
+                justify-content: space-evenly;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-size:20px;
+                color:#204e37;
+                flex-wrap: wrap;
+                align-items: center;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                background-image: url('https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .allAnimals {
+                display: flex;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                align-items: center;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                text-align: center;
+                background-image: url('https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .allAnimals1 {
+                
+                display: flex;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                align-items: center;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                text-align: center;
+                background-image: url('https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .grid img{
+                border:2px solid #000000;
+                border-radius:40px;
+            }
+
+            .panda {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .chameleon {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .camel {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .pigeon {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .cicada {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .teddy {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .parrot {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                background-repeat: no-repeat;
+                background-size: cover;;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .swan {
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                margin:30px;
+                padding:25px;
+                background-image: url('https://cdn.pizap.com/pizapfiles/images/photo_backgrounds_textures_app05.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+            }
+
+            .footer {
+                font-family:'Courier New', Courier, monospace;
+                font-size:25px;
+                display: flex;
+                justify-content: space-around;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                background-image: url('https://d1csarkz8obe9u.cloudfront.net/posterpreviews/white-wall-no-text-zoom-background-design-template-97c17d6215f14409c88b085599f9ac86_screen.jpg?ts=1586909055');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .c1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                color:black;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .c1 img{
+                border-radius:20px;
+            }
+
+            .ch1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                color:black;
+                font-size:25px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                border-radius:20px;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .ch1 img{
+                border-radius:20px;
+            }
+
+            .t1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                border-radius:20px; 
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                color:black;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .t1 img{
+                border-radius:20px;
+            }
+
+            .p1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                color:black;
+                font-size:25px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                border-radius:20px;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .p1 img{
+                border-radius:20px;
+            }
+
+            .ci1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .ci1 img{
+                border-radius:20px;
+            }
+
+            .pi1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                color:black;
+                border-radius:20px;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .pi1 img{
+                border-radius:20px;
+            }
+
+            .pa1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                color:black;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .pa1 img{
+                border-radius:20px;
+            }
+
+            .s1 {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                color:black;
+                background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdJ7m3gAMCQ00-e1PH_pOtliKRQwoSirhxw&usqp=CAU');
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            .s1 img{
+                border-radius:20px;
+            }
+         
+            body{
+                background-image: url('https://media.istockphoto.com/photos/brown-wood-texture-dark-wooden-abstract-background-picture-id1137996207?k=6&m=1137996207&s=612x612&w=0&h=Eli8yvjTkBpkkT7QZj_hd2wbdKojeNHcxmo209SN1MM=');
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin:0px;
+            }
+            
